@@ -86,7 +86,7 @@ body {
 header {
    width: 100%;
     margin: 0 auto;
-     height: 400px;
+     height: 450px;
        padding: 50px;
        text-align: center;
        color: white;
@@ -134,23 +134,26 @@ border-radius: 5px;
   font-size: 13px;
 }
 .container-3 {
-  width: 50%;
+  font-size: 18px;
+  width: 60%;
   margin: auto;
-  height: 200px;
+  height: 275px;
   text-align: center;
-  padding: 25px;
+  padding: 60px;
     }
 
-#container-3 {
-  font-size: 18px;
-}
 
-#container-3 q {
+.container-3 q {
   width: 50%;
-  font-size: 20px;
   color: white;
   font-style: italic;
-  font-weight: 200;
+  font-weight: 100;
+}
+
+.container-3 p {
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
 
 }
 
